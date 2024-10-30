@@ -1,1 +1,2 @@
-# HackerRank-C
+# HackerRank-C<br>
+THIS CONSISTS OF C BASICS PROGRAMS

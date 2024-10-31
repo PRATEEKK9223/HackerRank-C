@@ -44,10 +44,7 @@ int main()
             }
             else {
             printf("Greater than 9");
-            }
-       
-            
-            
+            }     
        
     }
 
